@@ -1,5 +1,5 @@
 # colour-_detect
-1st program written in python to detect the mainly 3 colour(rgb) contours by using colour elimination of the other colours rather than 3 main colour.
+a program written in python to detect the mainly 3 colour(rgb) contours by using colour elimination of the other colours rather than 3 main colour.
 
 reqiurements --
 
